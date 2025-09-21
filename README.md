@@ -6,11 +6,11 @@ Responsable de l’UE : **INF231_EC2 – STRUCTURE DE DONNÉES II**
 
 ---
 
-## 👥 Membres du groupe
+## 👥 Membres du groupe (MATRICULE)
 - Membre 1  
 - Membre 2  
 - Membre 3  
-- Membre 4  
+- AKANA SIGNING JOSIAS AARON  (24H2358)
 - Membre 5  
 - Membre 6  
 
