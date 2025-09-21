@@ -1,7 +1,7 @@
 # 📘 TP INF231 – Structure de Données II
 
 **Exercice en C / Groupe de TP**  
-Encadré par **PR Metatagia**  
+Encadré par **PR Melatagia**  
 Responsable de l’UE : **INF231_EC2 – STRUCTURE DE DONNÉES II**  
 
 ---
