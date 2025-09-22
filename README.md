@@ -8,10 +8,10 @@ Responsable de l’UE : **INF231_EC2 – STRUCTURE DE DONNÉES II**
 
 ## 👥 Membres du groupe (MATRICULE)
 - Nsangou Nkanjone Manuel Decency(24H2072)  
-- Membre 2  
-- Membre 3  
+- ASSOGO MANGA GEORGES MATHURIN(24G2280) 
+- YVANA EMILIA LALANE LARCIER(24G2439)
 - AKANA SIGNING JOSIAS AARON  (24H2358)
-- Membre 5  
+- KAMENI FRANCK ARTHUR(24G2149) 
 - Membre 6  
 
 ---
