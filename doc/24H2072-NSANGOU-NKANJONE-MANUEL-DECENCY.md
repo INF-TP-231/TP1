@@ -41,7 +41,7 @@ Nous allons donc créer une fonction qui prend en entrée un vecteur et une matr
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4)Compilation et exécution <br>
+3)Compilation et exécution <br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
  -Produit vectoriel <br>
 Pour compiler et exécuter le programme de produit vectoriel, vous pouvez utiliser les commandes suivantes dans votre terminal : <br>
