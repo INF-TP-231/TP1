@@ -15,6 +15,7 @@ Cahier de suivi individuel — INF231 (TP)
 
 7.Produit vecteur-matrice <br>
  ou il fallait implémenter le produit d'un vecteur par une matrice en utilisant des tableaux en C.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2)Algorithme(description textuelle) <br>
@@ -37,6 +38,7 @@ où R est le vecteur résultant. Les coordonnées de R sont données par :<br>
 Ri = Σ (Vj * Mji) pour j allant de 1 à n <br>
 où n est le nombre de colonnes de la matrice M et m est le nombre de lignes de M. <br>
 Nous allons donc créer une fonction qui prend en entrée un vecteur et une matrice et qui retourne le vecteur résultant du produit.<br>
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4)Compilation et exécution <br>
