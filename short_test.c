@@ -3,7 +3,7 @@
 int main(){
 	int n;
 	int i;
-	int d = 0;
+	int d = 1;
 	printf("saisir le nombre d'elements du tableau");
 	scanf("%d",&n);
 	int *tab = malloc(n * sizeof(int));
