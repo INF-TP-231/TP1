@@ -18,7 +18,7 @@ Ce programme e lanage C permet de renvoyer un tableau avec ses éléments placé
   Le tableau est renvoyé dans l'ordre contraire de l'ordre de départ.
 
 4. Compilation et exécution
- Pour compiler le programme "permutation.c" ouvrez le terminal et tapez la commande: ./permutation
+ Pour compiler le programme "inverser_tableau.c" ouvrez le terminal et tapez la commande: ./permutation
 
 5. Exemple de sortie
 Entrer la taille du tableau

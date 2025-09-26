@@ -3,8 +3,8 @@
 
 ## Tâches Réalisées
 
-### 1. Programme de test de tableau trié (`short_test.c`)
-### 2. Programme de produit entre  matrices (`somme.c`)
+### 1. Programme de test de tableau trié (`sort_test.c`)
+### 2. Programme de produit entre  matrices (`somme_matrices.c`)
 
 ---
 
@@ -47,7 +47,7 @@ P[i][j] = Σ (A[i][k] × B[k][j]) pour k de 0 à colonnesA-1
 - gcc
 
 ### Compiler le test de tableau trié
-gcc -o short_test short_test.c
+gcc -o sort_test short_test.c
 
 ### Compiler le produit matriciel
-gcc -o somme somme.c
+gcc -o somme_matrices somme.c

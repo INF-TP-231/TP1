@@ -16,10 +16,10 @@ Pour compiler et lancer le programme sur un système de type Unix (comme Linux o
 
 **1. Compilation**
 
-Ouvrez votre terminal et exécutez la commande suivante pour compiler le fichier `inverse.c`. Cela créera un fichier exécutable nommé `inverse`.
+Ouvrez votre terminal et exécutez la commande suivante pour compiler le fichier `inverse_tableau.c`. Cela créera un fichier exécutable nommé `inverse`.
 
 ```bash
-gcc inverse.c -o inverse
+gcc inverse_tableau.c -o inverse
 ```
 
 **2. Exécution**

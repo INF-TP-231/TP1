@@ -34,9 +34,9 @@ Sinon, le tableau est non trié.
 
 4. Compilation et exécution
 
-Pour compiler le programme "testerTri.c" ouvrez votre terminal et tapez la commande :
+Pour compiler le programme "sort_test.c" ouvrez votre terminal et tapez la commande :
 
-gcc testerTri.c -o test_tri
+gcc sort_test.c -o test_tri
 
 Ensuite, pour exécuter le programme tapez la commande :
 
@@ -105,7 +105,7 @@ Le programme est découpé en plusieurs étapes :
 
 Pour compiler le programme "mediane.c" ouvrez votre terminal et tapez la commande :
 
-gcc mediane.c -o mediane
+gcc calculmediane.c -o mediane
 
 Ensuite, pour exécuter le programme tapez la commande :
 
