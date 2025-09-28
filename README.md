@@ -68,11 +68,11 @@ produit_matrices.exe
 gcc recherche_sequentielle.c -o recherche_sequentielle
 recherche_sequentielle.exe
 
-gcc produit_ab_plus.c -o produit_ab_plus
-produit_ab_plus.exe
+gcc Multiplication+1.c -o produit_ab_plus
+multiplication.exe
 
-gcc short_test.c -o short_test
-short_test.exe
+gcc sort_test.c -o short_test
+sort_test.exe
 
 gcc calculmediane.c -o calculmediane
 calculmediane.exe
@@ -94,8 +94,8 @@ produitvecteurxmatrice.exe
 - somme_matrices.c
 - produit_matrices.c
 - recherche_sequentielle.c
-- produit_ab_plus.c
-- short_test.c
+- Multiplication+1.c
+- sort_test.c
 - calculmediane.c
 - inverser_tableau.c
 - produitvectoriel.c
