@@ -69,7 +69,7 @@ gcc recherche_sequentielle.c -o recherche_sequentielle
 recherche_sequentielle.exe
 
 gcc Multiplication+1.c -o produit_ab_plus
-multiplication.exe
+Multiplication+1.exe
 
 gcc sort_test.c -o short_test
 sort_test.exe
