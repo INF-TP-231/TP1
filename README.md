@@ -68,10 +68,10 @@ produit_matrices.exe
 gcc recherche_sequentielle.c -o recherche_sequentielle
 recherche_sequentielle.exe
 
-gcc Multiplication+1.c -o produit_ab_plus
+gcc Multiplication+1.c -o Multiplication+1
 Multiplication+1.exe
 
-gcc sort_test.c -o short_test
+gcc sort_test.c -o sort_test
 sort_test.exe
 
 gcc calculmediane.c -o calculmediane
